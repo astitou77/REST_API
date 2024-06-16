@@ -1,1 +1,7 @@
-OPTIONS https://site.com/wp-json/wp/v2/posts
+// REST API reference - wordpress
+//https://developer.wordpress.org/rest-api/reference/
+//OPTIONS https://adnane5.wordpress.com/wp/v2/posts
+
+GET https://www.google.ca
+
+// POST https://site.com/wp-json/wp/v2/posts
